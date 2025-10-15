@@ -1,0 +1,1 @@
+print("This is on repeat image generation service!")
